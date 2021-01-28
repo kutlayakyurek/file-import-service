@@ -4,7 +4,7 @@ Sample file import service project for AWS Lambda implemented with Java
 
 ## Introduction
 
-This project aims for implementing simple dockerized Spring Boot application
+This project aims for implementing simple dockerized AWS Lambda function by using Java
 
 ## How To Run
 
